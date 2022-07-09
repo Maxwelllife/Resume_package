@@ -1,5 +1,5 @@
 {
-  "name": "resume_package",
+  "name": "contacts_package",
   "version": "1.0.0",
   "description": "my contacts",
   "main": "index.html",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Maxwelllife/Resume_package.git"
   },
   "keywords": [
-    "contacs\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[tacts"
+    "contacts"
   ],
   "author": "Maksym Pokulytyi",
   "license": "ISC",
